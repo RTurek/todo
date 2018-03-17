@@ -58,6 +58,8 @@ Apply the database migrations:
 
     sequelize db:migrate
     
+for further documentation on sequelize and db migrations, go to http://docs.sequelizejs.com/manual/tutorial/migrations.html
+
 Copy over static assets:
 
     grunt collect_static
